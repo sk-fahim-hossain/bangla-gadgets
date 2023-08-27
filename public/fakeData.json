@@ -1,0 +1,281 @@
+
+  {  "products": [
+      {
+        "id": 1,
+        "name": "Smartphone Model X",
+        "description": "A powerful and sleek smartphone with advanced features.",
+        "price": 599.99,
+        "category": "Electronics",
+        "brand": "TechCo",
+        "availability": true,
+        "ratings": 4.5,
+        "reviews": [
+          {
+            "user": "User123",
+            "rating": 5,
+            "comment": "Absolutely love this phone!"
+          },
+          {
+            "user": "Customer456",
+            "rating": 4,
+            "comment": "Great features, but battery life could be better."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/61A+wkddftL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laptop Model Y",
+        "description": "High-performance laptop for all your computing needs.",
+        "price": 1299.99,
+        "category": "Electronics",
+        "brand": "TechCom",
+        "availability": true,
+        "ratings": 4.8,
+        "reviews": [
+          {
+            "user": "User789",
+            "rating": 5,
+            "comment": "Blazing fast speed and impressive build quality."
+          },
+          {
+            "user": "Customer101",
+            "rating": 4.5,
+            "comment": "Excellent laptop, but a bit on the heavier side."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/519KZO0oXaL._AC_.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Classic Watch",
+        "description": "Elegant watch with a timeless design.",
+        "price": 199.99,
+        "category": "Fashion",
+        "brand": "Timeless Watches",
+        "availability": true,
+        "ratings": 4.3,
+        "reviews": [
+          {
+            "user": "WatchLover87",
+            "rating": 4,
+            "comment": "Beautiful design, but the strap quality could be better."
+          },
+          {
+            "user": "Fashionista22",
+            "rating": 5,
+            "comment": "Absolutely stunning! Goes well with any outfit."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/81pp1cX1StL._AC_UX569_.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Wireless Headphones",
+        "description": "Immersive wireless headphones with noise-cancellation.",
+        "price": 149.99,
+        "category": "Electronics",
+        "brand": "SoundWave",
+        "availability": true,
+        "ratings": 4.6,
+        "reviews": [
+          {
+            "user": "AudioEnthusiast",
+            "rating": 5,
+            "comment": "Mind-blowing sound quality and comfort."
+          },
+          {
+            "user": "NoisyCommute",
+            "rating": 4,
+            "comment": "Great for reducing noise during my daily commute."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/41lArSiD5hL._AC_SL1200_.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Designer Sunglasses",
+        "description": "Stylish sunglasses for a fashionable look.",
+        "price": 89.99,
+        "category": "Fashion",
+        "brand": "Trendy Shades",
+        "availability": true,
+        "ratings": 4.1,
+        "reviews": [
+          {
+            "user": "SunshineAddict",
+            "rating": 4,
+            "comment": "Love the style, but they're a bit fragile."
+          },
+          {
+            "user": "FashionForward",
+            "rating": 5,
+            "comment": "Makes me feel like a celebrity!"
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/51P+hqPBcwL._AC_UX679_.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Fitness Tracker",
+        "description": "Track your health and fitness goals with this advanced wearable.",
+        "price": 79.99,
+        "category": "Health & Fitness",
+        "brand": "FitLife",
+        "availability": true,
+        "ratings": 4.2,
+        "reviews": [
+          {
+            "user": "ActiveAthlete",
+            "rating": 4,
+            "comment": "Accurate tracking, but the app could be improved."
+          },
+          {
+            "user": "WellnessJourney",
+            "rating": 5,
+            "comment": "Helped me stay motivated on my fitness journey!"
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/61gFrSlmofL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Coffee Maker Deluxe",
+        "description": "Brew the perfect cup of coffee with this premium coffee maker.",
+        "price": 129.99,
+        "category": "Home & Kitchen",
+        "brand": "BrewMaster",
+        "availability": true,
+        "ratings": 4.7,
+        "reviews": [
+          {
+            "user": "CoffeeLover123",
+            "rating": 5,
+            "comment": "Easy to use and consistently great coffee!"
+          },
+          {
+            "user": "KitchenExplorer",
+            "rating": 4.5,
+            "comment": "Sleek design, but the water reservoir is a bit small."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/81e7redWiIL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Leather Messenger Bag",
+        "description": "Classic leather messenger bag for a stylish and practical look.",
+        "price": 179.99,
+        "category": "Fashion",
+        "brand": "UrbanStyle",
+        "availability": true,
+        "ratings": 4.4,
+        "reviews": [
+          {
+            "user": "ProfessionalNomad",
+            "rating": 4,
+            "comment": "Great quality, but could use more internal pockets."
+          },
+          {
+            "user": "FashionExplorer",
+            "rating": 5,
+            "comment": "Perfect for carrying essentials in a sophisticated way."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/81HGDxAGNrL._AC_UY500_.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Wireless Earbuds",
+        "description": "Compact wireless earbuds with excellent sound quality.",
+        "price": 79.99,
+        "category": "Electronics",
+        "brand": "AudioBliss",
+        "availability": true,
+        "ratings": 4.4,
+        "reviews": [
+          {
+            "user": "MusicLover99",
+            "rating": 5,
+            "comment": "Impressive audio and comfortable fit!"
+          },
+          {
+            "user": "OnTheGoListener",
+            "rating": 4,
+            "comment": "Good for workouts, but battery life could be longer."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/61O2lwjeVGL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Gaming Console",
+        "description": "Next-gen gaming console for an immersive gaming experience.",
+        "price": 399.99,
+        "category": "Gaming",
+        "brand": "GameTech",
+        "availability": true,
+        "ratings": 4.9,
+        "reviews": [
+          {
+            "user": "GamerPro123",
+            "rating": 5,
+            "comment": "Unbelievable graphics and performance!"
+          },
+          {
+            "user": "CasualGamer",
+            "rating": 4.5,
+            "comment": "Great for both hardcore and casual gamers."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/71Yk0HGjn+L._SL1500_.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Luxury Perfume",
+        "description": "Exquisite fragrance that exudes elegance and sophistication.",
+        "price": 249.99,
+        "category": "Beauty",
+        "brand": "Eau de Luxe",
+        "availability": true,
+        "ratings": 4.7,
+        "reviews": [
+          {
+            "user": "PerfumeAficionado",
+            "rating": 5,
+            "comment": "Long-lasting and truly captivating scent!"
+          },
+          {
+            "user": "LuxuryLover",
+            "rating": 4,
+            "comment": "Expensive, but worth every penny for the quality."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/51yZCKJYxlL._SL1403_.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Portable Power Bank",
+        "description": "Stay charged on the go with this high-capacity power bank.",
+        "price": 39.99,
+        "category": "Electronics",
+        "brand": "PowerMax",
+        "availability": true,
+        "ratings": 4.2,
+        "reviews": [
+          {
+            "user": "OnTheMove",
+            "rating": 4,
+            "comment": "Reliable backup power, but a bit bulky."
+          },
+          {
+            "user": "TechTraveler",
+            "rating": 5,
+            "comment": "Saved me during long trips and airport layovers."
+          }
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/71s9NDno3FL._AC_SL1193_.jpg"
+      }
+    ]
+  
+}
